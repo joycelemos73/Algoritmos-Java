@@ -7,6 +7,7 @@ public class Ex12_2_MetodoTabuada {
         for (int i=1; i<= 10; i++){
             System.out.printf("%d * %d = %d", numero, i, numero*i).println();
         }
+
     }
 
     public static void main(String[] args) {
